@@ -1,0 +1,7 @@
+C:\Users\GLais\Documents\Projets\Scolaires\2019 Pokemon\ProgAvancee Pokemon\bin\Debug\ProgAvancee Pokemon.exe.config
+C:\Users\GLais\Documents\Projets\Scolaires\2019 Pokemon\ProgAvancee Pokemon\bin\Debug\ProgAvancee Pokemon.exe
+C:\Users\GLais\Documents\Projets\Scolaires\2019 Pokemon\ProgAvancee Pokemon\bin\Debug\ProgAvancee Pokemon.pdb
+C:\Users\GLais\Documents\Projets\Scolaires\2019 Pokemon\ProgAvancee Pokemon\obj\Debug\ProgAvancee Pokemon.csprojAssemblyReference.cache
+C:\Users\GLais\Documents\Projets\Scolaires\2019 Pokemon\ProgAvancee Pokemon\obj\Debug\ProgAvancee Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\GLais\Documents\Projets\Scolaires\2019 Pokemon\ProgAvancee Pokemon\obj\Debug\ProgAvancee Pokemon.exe
+C:\Users\GLais\Documents\Projets\Scolaires\2019 Pokemon\ProgAvancee Pokemon\obj\Debug\ProgAvancee Pokemon.pdb
